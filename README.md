@@ -13,7 +13,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
 - 👯Estoy buscando Ingresar al mundo IT!.
 - ⚡Dato curioso: igual no siempre es igual en Javascript🤣. contratame 👨‍💻.
 <br>
---
+---
 
 ### Como contactarme:
 <div align="center">
@@ -24,7 +24,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </center>
 
---
+---
 
 ### 💻 Tech Stack:
 
@@ -34,7 +34,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </div>
 
---
+---
 
 ### 📊 GitHub Stats:
 
