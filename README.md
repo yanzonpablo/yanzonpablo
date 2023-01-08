@@ -8,6 +8,7 @@
 
 <div align="center">
   <br>
+  
 [![](https://img.shields.io/badge/LinkedIn-yanzonpablo-blue)](https://www.linkedin.com/in/pablo-yanzon/)
 [![](https://img.shields.io/badge/Gmail-yanzonpablo%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
   
