@@ -1,5 +1,8 @@
 ## Hi, I'm Pablo  Yanzon👋 
 
+¡Me alegro de verte aquí!🤩 
+Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS INFORMÁTICOS🎓 en el Instituto ISEI🏛. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías y dominios.💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. Actualmente estoy en Desarrollo Web🕸️y trabajando en mis estructuras de datos y algoritmos🤓.
+
 ### Full Stack Developer
 
 <div align="center">
