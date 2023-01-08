@@ -10,7 +10,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
 ### Más sobre mí...
 - 🔭Actualmente estoy trabajando en Node.js, Express.js, React, MySQL, etc.💻.
 - 🌱Soy <strong>Full Stack Developer</strong>🚀.
-- 👯Estoy buscando Ingresar al mundo IT!.
+- 👯Estoy buscando la oportunidad de ingresar al mundo IT!.
 - ⚡Dato curioso: igual no siempre es igual en Javascript🤣. contratame 👨‍💻.
 <br>
 
