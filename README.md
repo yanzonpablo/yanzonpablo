@@ -22,6 +22,8 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </div>
 
+---
+
 ### 💻 Tech Stack:
 
 <div align="center">
