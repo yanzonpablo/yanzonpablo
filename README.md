@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-
+<br>
 ¡Me alegro de verte aquí!🤩 
 Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS INFORMÁTICOS🎓 en el Instituto ISEI🏛. Soy un aprendiz apasionado que siempre está dispuesto a aprender y trabajar en tecnologías y dominios.💡. Me encanta explorar nuevas tecnologías y aprovecharlas para resolver problemas de la vida real.✨. Actualmente estoy en Desarrollo Web🕸️y trabajando en mis estructuras de datos y algoritmos🤓.
 
