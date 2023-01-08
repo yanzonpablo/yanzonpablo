@@ -1,6 +1,6 @@
-### Hi, I'm Pablo  Yanzon👋 
+## Hi, I'm Pablo  Yanzon👋 
 
-#### Full Stack Developer
+### Full Stack Developer
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -14,7 +14,7 @@
   
 </center>
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 
 <div align="center">
   
@@ -22,7 +22,7 @@
   
 </div>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <div align="center">
   
