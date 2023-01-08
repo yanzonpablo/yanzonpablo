@@ -12,6 +12,8 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
 - 🌱<strong>Full Stack Developer</strong>🚀.
 - 👯Estoy buscando Ingresar al mundo IT!.
 - ⚡Dato curioso: igual no siempre es igual en Javascript🤣. contratame 👨‍💻.
+<br>
+--
 
 ### Como contactarme:
 <div align="center">
@@ -22,7 +24,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </center>
 
----
+--
 
 ### 💻 Tech Stack:
 
@@ -32,7 +34,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </div>
 
----
+--
 
 ### 📊 GitHub Stats:
 
@@ -42,7 +44,7 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
   
 </div>
 
----
+--
 
 [![](https://visitcount.itsvg.in/api?id=yanzonpablo&icon=0&color=0)](https://visitcount.itsvg.in)
 
