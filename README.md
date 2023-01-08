@@ -5,7 +5,8 @@
 </div>
 
 ## Full Stack Developer
-<center>
+
+<div align="center">
   
 [![](https://img.shields.io/badge/LinkedIn-yanzonpablo-blue)](https://www.linkedin.com/in/pablo-yanzon/)
 [![](https://img.shields.io/badge/Gmail-yanzonpablo%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
@@ -21,8 +22,12 @@
 </div>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanzonpablo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yanzonpablo&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=yanzonpablo&icon=0&color=0)](https://visitcount.itsvg.in)
 
