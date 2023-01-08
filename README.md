@@ -8,6 +8,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablo-yanzon/) 
 
+[![](https://img.shields.io/badge/LinkedIn-yanzonpablo-blue)]([https://www.linkedin.com/in/ashraf-k-m-149a3494/](https://www.linkedin.com/in/pablo-yanzon/))
+[![](https://img.shields.io/badge/Gmail-yanzonpablo%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
 
 # 💻 Tech Stack:
 
