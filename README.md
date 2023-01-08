@@ -13,18 +13,14 @@ Soy un estudiante final de TÉCNICO SUPERIOR EN ANÁLISIS FUNCIONAL DE SISTEMAS 
 - 👯Estoy buscando Ingresar al mundo IT!.
 - ⚡Dato curioso: igual no siempre es igual en Javascript🤣. contratame 👨‍💻.
 <br>
----
 
 ### Como contactarme:
 <div align="center">
   <br>
-  
 [![](https://img.shields.io/badge/LinkedIn-yanzonpablo-blue)](https://www.linkedin.com/in/pablo-yanzon/)
 [![](https://img.shields.io/badge/Gmail-yanzonpablo%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
   
 </center>
-</br>
----
 
 ### 💻 Tech Stack:
 
